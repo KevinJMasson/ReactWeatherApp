@@ -1,0 +1,10 @@
+#locInput {
+    flex-direction: column;
+}
+
+input {
+    border-radius: 5px;
+    height: 30px;
+    margin: 10px;
+}
+

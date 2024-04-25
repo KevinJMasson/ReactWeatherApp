@@ -1,4 +1,5 @@
 import {config} from '../../config.js';
+import '../styles/submit.css';
 export default Submit;
 
 async function GetWeather({location, setWeather}) {
