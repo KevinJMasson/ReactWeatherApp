@@ -5,7 +5,7 @@ import Submit from './components/submit.jsx'
 import Weather from './components/weather.jsx'
 
 function App() {
-  const [location, setLocation] = useState('Toronto');
+  const [location, setLocation] = useState('');
   const [weather, setWeather] = useState('');
 
   return (
