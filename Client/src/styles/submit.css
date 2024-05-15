@@ -1,4 +1,10 @@
 button {
-    margin: 10px;
+    margin: auto;
     box-shadow: 2px 2px 5px;
+    display:block;
+    width:80px;
+}
+
+button:hover {
+    background-color: #646cff;
 }

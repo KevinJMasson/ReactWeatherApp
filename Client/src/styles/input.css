@@ -5,6 +5,10 @@
 input {
     border-radius: 5px;
     height: 30px;
-    margin: 10px;
+    display:block;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width:200px;
 }
 
